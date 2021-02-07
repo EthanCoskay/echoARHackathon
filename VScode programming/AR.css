@@ -1,0 +1,42 @@
+body {
+    background-color: #3174a0;
+    font-size: 18px;
+    color: white;
+}
+h1, h2 {
+    position: relative;
+    text-align: center;
+    font-size: 5vh;
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+img {
+    height: 200px;
+    width: 200px;
+    float: right;
+    padding: 20px;
+}
+.second {
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding: 20px;
+}
+a {
+    background-color: #4da8da;
+    border: none;
+    color: #eefbfb;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 30px;
+    border-radius:25px;
+    padding: 20px;
+    margin-left: 12%;
+    transition: width 0.5;
+    width: 100px;
+    height: 60px;
+}
+div{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
